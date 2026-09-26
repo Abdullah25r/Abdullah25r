@@ -1,19 +1,19 @@
 # Hi, I'm Abdullah Rasheed 👋
 
-Full-Stack Developer & AI Engineering enthusiast — building production systems, not just assignments.
+Full-Stack Developer | AI Engineering enthusiast | building production systems, not just assignments.
 Final Year BS Software Engineering @ COMSATS University, Lahore 🇵🇰
 
 ---
 
 ### 🚀 What I Build
 
-- 🛒 **Tech Blog** — Blog about technology and software engineering life (Next.js · FastAPI · PostgreSQL)
-- 🏥 **DrKonain Clinic** — Full-stack medical website built for a real client
-- 🔬 **Reti-Nexus AI** — Diabetic retinopathy detection system using deep learning (FYP · Technical Lead)
+-  **Tech Blog** — Blog about technology and software engineering life (Next.js · FastAPI · PostgreSQL)
+-  **DrKonain Clinic** — Full-stack medical website built for a real client
+-  **Reti-Nexus AI** — Diabetic retinopathy detection system using deep learning (FYP · Technical Lead)
 
 ---
 
-### 🛠️ Stack
+###  Stack
 
 #### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
